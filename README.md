@@ -10,6 +10,8 @@
 새로운 HR ERP 시스템은 인사 관리, 급여 관리, 인재 개발, 성과 평가, 근태 관리 등 다양한 HR 프로세스를 통합하여 업무 효율성을 극대화합니다. 
 특히, 사무직과 관리직 직원의 요구사항을 반영한 맞춤형 기능을 제공하여, 보다 체계적이고 정교한 인사관리가 가능해집니다.
 
+https://file.notion.so/f/f/89aeec22-69b4-4c58-9c96-735560cc2d0d/fe19c977-7f40-4a64-a4c1-e75528bfcc3e/PANDA_OFFICE.mp4?table=block&id=49896294-5f3d-42c6-b3f2-50f311919053&spaceId=89aeec22-69b4-4c58-9c96-735560cc2d0d&expirationTimestamp=1725062400000&signature=ny00eBKtAkMEPZyOO6H_iaB5VzbaQN9IrV36TdegC3w&downloadName=PANDA+OFFICE.mp4
+
 ## 🕰️개발기간
 **2024.05.10 ~ 2024.07.16**
 - 2024.05.10 ~ 13: 기획 업무 분담
