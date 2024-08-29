@@ -23,7 +23,7 @@
 | 이름                                          | 담당 기능        |
 |:----------------------------------------:|:-----------------:|
 [김아연](https://github.com/duri22)         | 로그인            |
-[이유란](https://github.com/philosophosDeka)| 급여관리          |
+[이유란](https://github.com/deka-root)      | 급여관리          |
 [손석현](https://github.com/lobster0202)    | 근태관리          |
 [성우현](https://github.com/sunguh0904)     | 채용/면접         |
 [편승준](https://github.com/jun-may-6)      | 전자결재          |
