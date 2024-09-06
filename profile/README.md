@@ -99,7 +99,7 @@
 [플로우차트 디자인 링크](https://whimsical.com/panda-hotel-home-4euVxN2zgsXk2r4cEj2hP5)
 
 ## 📋시연영상 URL
-[시연영상 링크](https://file.notion.so/f/f/89aeec22-69b4-4c58-9c96-735560cc2d0d/fe19c977-7f40-4a64-a4c1-e75528bfcc3e/PANDA_OFFICE.mp4?table=block&id=49896294-5f3d-42c6-b3f2-50f311919053&spaceId=89aeec22-69b4-4c58-9c96-735560cc2d0d&expirationTimestamp=1725062400000&signature=ny00eBKtAkMEPZyOO6H_iaB5VzbaQN9IrV36TdegC3w&downloadName=PANDA+OFFICE.mp4)
+[시연영상 링크](https://file.notion.so/f/f/89aeec22-69b4-4c58-9c96-735560cc2d0d/fe19c977-7f40-4a64-a4c1-e75528bfcc3e/PANDA_OFFICE.mp4?table=block&id=49896294-5f3d-42c6-b3f2-50f311919053&spaceId=89aeec22-69b4-4c58-9c96-735560cc2d0d&expirationTimestamp=1725753600000&signature=ALRxE0-3W339WryTl6xGzm-KTlMh5nX8z62FxcYKkqw&downloadName=PANDA+OFFICE.mp4)
 
 ---
 
